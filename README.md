@@ -19,7 +19,7 @@ Experienced AI Specialist with a strong background in Machine Learning, Software
 - Automated personalized exam timetables for Cambridge students.
 - Mentored and led a team of software engineers.
 
-**Senior Back End Developer** @ Karaz Platform  
+**Senior Backend Developer** @ Karaz Platform  
 *(2022 - 2023)*
 - Reduced API response times from 5s to <200ms.
 - Optimized fetch times for large-scale tables (10M+ records) using caching and GoLang parallelization.
